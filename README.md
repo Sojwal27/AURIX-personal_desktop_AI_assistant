@@ -61,8 +61,8 @@
 ###  Clone the Repo
 
 ```bash
-git clone https://github.com/Yogiii13/Aurix-ai-desktop-assistant.git
-cd aurix-ai-desktop-assistant
+git clone https://github.com/Sojwal27/Aurix-personal-desktop-AI-assistant.git
+cd Aurix-personal-desktop-AI-assistant
 ```
 
 ###  Create a Virtual Environment
